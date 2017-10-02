@@ -7,7 +7,7 @@ object Solution {
         for(unsorted_i <- 0 to n-1) {
            unsorted(unsorted_i) = sc.next();
         }
-        // your code goes here
+
         var u_sorted = new Array[scala.math.BigInt](n)
         
         for(i <- 0 to n-1)
