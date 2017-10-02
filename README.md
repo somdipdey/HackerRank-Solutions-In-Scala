@@ -1,7 +1,7 @@
 # HackerRank-Solved-InScala
 The Challenges of HackerRank Solved in Scala
 
-The name of the solution is the name of the challenge itself.
-For example, the solution with name "Arrays - DS" is also of the same name as the problem in HackerRank website.
+All the solutions provided here, are solely developed by me (Somdip Dey), and the challenges were pursued while learning Scala on the way.
 
-Note: All the solutions provided here are written in Scala
+The name of the solution is the name of the challenge itself.
+For example, the solution with name "Arrays - DS" is also of the same name as the problem on HackerRank website.
