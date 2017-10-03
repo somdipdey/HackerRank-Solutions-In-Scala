@@ -19,6 +19,5 @@ object Solution {
         case (false, true) => n
         case (true, false) => n + (5 - (n % 5))
         case (false, false) => n
-        case(_,_) => 0
     }
 }
