@@ -17,27 +17,23 @@ object Solution {
            orange(orange_i) = sc.nextInt();
         }
         
-        var rangeOfPointForHouse = s to t
-        
-        var listOfPointForHouse = rangeOfPointForHouse.toList
-        
         var applesThatReachHouse = 0
         var orangesThatReachHouse = 0
         
         for(apple_i <- Range(0, apple.length)) {
-          if(listOfPointForHouse contains (apple(apple_i) + a) ) {
+          if(s <= (apple(apple_i) + a) && (apple(apple_i) + a) <= t ) {
               applesThatReachHouse = applesThatReachHouse + 1
           }
         }
         
         for(orange_i <- Range(0, orange.length)) {
-          if(listOfPointForHouse contains (orange(orange_i) + b) ) {
+          if(s <= (orange(orange_i) + b) && (orange(orange_i) + b) <= t ) {
             orangesThatReachHouse = orangesThatReachHouse + 1
           }
         }
-        
-        
+         
         println(applesThatReachHouse)
         println(orangesThatReachHouse)
     }
 }
+
