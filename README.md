@@ -6,6 +6,6 @@ All the solutions provided here, are solely developed by me (Somdip Dey), and th
 The name of the solution is the name of the challenge itself.
 For example, the solution with name "Arrays - DS.scala" is also of the same name, 'Arrays - DS', as the problem on HackerRank website.
 
-Follow me on HackerRank @somdip0071 [Link: https://www.hackerrank.com/somdip0071]
+Follow me on HackerRank @somdipdey [https://www.hackerrank.com/somdipdey]
 
 ![Somdip Dey's Hackerrank profile](https://user-images.githubusercontent.com/8515608/31318280-7fc043c2-ac47-11e7-9998-ea29745276d7.png "Somdip Dey's HackerRank profile")
